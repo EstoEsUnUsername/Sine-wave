@@ -54,9 +54,9 @@ int main(){
 
                     printf("\nEvento # %d", i + 1);
                     printf("\nIdentificador: %d \n", ev.identificador);
-                    printf("\Grado de Expresividad: %d \n", ev.gradoExpresividad);
-                    printf("\Hora: %d \n", ev.hora);
-                    printf("\Minuto: %d \n", ev.minuto);
+                    printf("\nGrado de Expresividad: %d \n", ev.gradoExpresividad);
+                    printf("\nHora: %d \n", ev.hora);
+                    printf("\nMinuto: %d \n", ev.minuto);
                     printf("\n");
                 }
 
