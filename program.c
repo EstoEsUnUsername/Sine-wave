@@ -25,7 +25,7 @@ int main(){
         printf("\n[1]. Generate random numbers");
         printf("\n[2]. Show the random numbers");
         printf("\n[3]. Show stadistics.");
-        printf("\n[4]. Salir");
+        printf("\n[4]. Exit");
 
         printf("\nIngresa una opcion: ");
         scanf("%d", &opc);
