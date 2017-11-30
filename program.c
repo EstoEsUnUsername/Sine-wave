@@ -22,9 +22,9 @@ int main(){
 
     do{
         printf("\t\tMenu Principal\n");
-        printf("\n[1]. Generar eventos al azar.");
-        printf("\n[2]. Mostrar todos los eventos.");
-        printf("\n[3]. Mostrar estadistica de eventos.");
+        printf("\n[1]. Generate random numbers");
+        printf("\n[2]. Show the random numbers");
+        printf("\n[3]. Show stadistics.");
         printf("\n[4]. Salir");
 
         printf("\nIngresa una opcion: ");
